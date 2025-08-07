@@ -22,20 +22,27 @@
 
 # Previews
 
-<p align="center">
-  <img src="https://www.tiktok.com/@cybersecurefivem/video/7529676694228192544" alt="GIF 2" width="620">
-</p>
+<!-- Video 1 -->
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7529676694228192544" data-video-id="7529676694228192544" style="max-width: 620px;min-width: 325px;">
+  <section> </section>
+</blockquote>
 
-<p align="center">
-  <img src="https://www.tiktok.com/@cybersecurefivem/video/7511622492616674582" alt="GIF 2" width="620">
-</p>
+<!-- Video 2 -->
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7511622492616674582" data-video-id="7511622492616674582" style="max-width: 620px;min-width: 325px;">
+  <section> </section>
+</blockquote>
 
-<p align="center">
-  <img src="https://www.tiktok.com/@cybersecurefivem/video/7524923383369174304" alt="GIF 2" width="620">
-</p>
+<!-- Video 3 -->
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7524923383369174304" data-video-id="7524923383369174304" style="max-width: 620px;min-width: 325px;">
+  <section> </section>
+</blockquote>
 
-<p align="center">
-  <img src="https://www.tiktok.com/@cybersecurefivem/video/7520030337615875361" alt="GIF 2" width="620">
-</p>
+<!-- Video 4 -->
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7520030337615875361" data-video-id="7520030337615875361" style="max-width: 620px;min-width: 325px;">
+  <section> </section>
+</blockquote>
+
+<!-- Load TikTok embed script -->
+<script async src="https://www.tiktok.com/embed.js"></script>
 
 **MORE ON OUR TIKTOK https://www.tiktok.com/@cybersecurefivem/video/7520030337615875361**
