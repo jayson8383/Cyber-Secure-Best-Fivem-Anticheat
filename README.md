@@ -15,7 +15,7 @@
 [![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cybersecures)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@cybersecures)
 [![Follow on TikTok](https://img.shields.io/badge/Follow-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cybersecurefivem)
-![wallpaper_discord_01-1](https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png)
+![wallpaper_discord_01-1](https://i.postimg.cc/05MwscdH/Cyber-Secure-6.png)
 
 
 
@@ -26,28 +26,28 @@
 
 <p align="center">
   <a href="https://youtube.com/shorts/_y4ELsFBYr8?si=h0_p45JjzAnjufkV">
-    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+    <img src="https://i.postimg.cc/05MwscdH/Cyber-Secure-6.png" alt="Video 1">
   </a>
 </p>
 
 <!-- Video 2 -->
 <p align="center">
   <a href="https://youtube.com/shorts/5yrwGkNFAWg?si=-8WXqqS3vKFLx1qm">
-    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+    <img src="https://i.postimg.cc/05MwscdH/Cyber-Secure-6.png" alt="Video 1">
   </a>
 </p>
 
 <!-- Video 3 -->
 <p align="center">
   <a href="https://youtube.com/shorts/36bceX22SMs?si=OHCtmJrM01XUmAGK">
-    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+    <img src="https://i.postimg.cc/05MwscdH/Cyber-Secure-6.png" alt="Video 1">
   </a>
 </p>
 
 <!-- Video 4 -->
 <p align="center">
   <a href="https://youtube.com/shorts/zMUZBOO7ePE?si=kF0fBR4ut6U9mpIJ">
-    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+    <img src="https://i.postimg.cc/05MwscdH/Cyber-Secure-6.png" alt="Video 1">
   </a>
 </p>
 
