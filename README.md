@@ -23,26 +23,32 @@
 # Previews
 
 <!-- Video 1 -->
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7529676694228192544" data-video-id="7529676694228192544" style="max-width: 620px;min-width: 325px;">
-  <section> </section>
-</blockquote>
+
+<p align="center">
+  <a href="https://youtube.com/shorts/_y4ELsFBYr8?si=h0_p45JjzAnjufkV">
+    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+  </a>
+</p>
 
 <!-- Video 2 -->
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7511622492616674582" data-video-id="7511622492616674582" style="max-width: 620px;min-width: 325px;">
-  <section> </section>
-</blockquote>
+<p align="center">
+  <a href="https://youtube.com/shorts/5yrwGkNFAWg?si=-8WXqqS3vKFLx1qm">
+    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+  </a>
+</p>
 
 <!-- Video 3 -->
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7524923383369174304" data-video-id="7524923383369174304" style="max-width: 620px;min-width: 325px;">
-  <section> </section>
-</blockquote>
+<p align="center">
+  <a href="https://youtube.com/shorts/36bceX22SMs?si=OHCtmJrM01XUmAGK">
+    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+  </a>
+</p>
 
 <!-- Video 4 -->
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cybersecurefivem/video/7520030337615875361" data-video-id="7520030337615875361" style="max-width: 620px;min-width: 325px;">
-  <section> </section>
-</blockquote>
-
-<!-- Load TikTok embed script -->
-<script async src="https://www.tiktok.com/embed.js"></script>
+<p align="center">
+  <a href="https://youtube.com/shorts/zMUZBOO7ePE?si=kF0fBR4ut6U9mpIJ">
+    <img src="https://i.postimg.cc/7hxyPBJJ/Cyber-Secure-6.png" alt="Video 1">
+  </a>
+</p>
 
 **MORE ON OUR TIKTOK https://www.tiktok.com/@cybersecurefivem/video/7520030337615875361**
